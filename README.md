@@ -1,3 +1,5 @@
+If the below code doesn't run then consider the code and use API's for looking the page.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -18,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1nn5RW7gjb3kxezDxfqL-vW
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
